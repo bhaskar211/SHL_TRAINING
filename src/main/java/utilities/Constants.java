@@ -9,7 +9,7 @@ public class Constants
 	public final static String PASSWORD1="qwertyu";
 	public final static String USERNAME2="bhaskar@gmail.com";
 	public final static String PASSWORD2="qwertyu";
-	public final static String PRODUCT="laptop";
+	public final static String PRODUCT="laptops";
 	public final static String ERROR="Login was unsuccessful. Please correct the errors and try again.\n" + 
 	   		"The credentials provided are incorrect";
 }
